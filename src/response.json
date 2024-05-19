@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine Russia war: US House passes crucial aid deal worth $61bn",
+      "description": "The long-stalled package could be vital for Ukraine, which is struggling to contain Russia's invasion.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68848277",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B62/production/_133205486_capture.png",
+      "publishedAt": "2024-04-21T15:52:21.9396152Z",
+      "content": "Media caption, Watch the moment the US House passed critical Ukraine aid package\r\nThe House of Representatives has finally approved billions of dollars in new US military aid for Ukraine to help comb… [+5124 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Met Police: PM appalled by way police treated Jewish man, says No 10",
+      "description": "A No 10 source says police \"mishandled\" its interaction with a Jewish man at pro-Palestinian protest.",
+      "url": "https://www.bbc.co.uk/news/articles/cd130lp70x5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4359/live/04f85ec0-ffdf-11ee-97f7-e98b193ef1b8.png",
+      "publishedAt": "2024-04-21T15:52:19.7513262Z",
+      "content": "Speaking on the BBC's Sunday with Laura Kuenssberg, Energy Secretary Claire Coutinho said: \"What we can't be saying to particular groups in society that their very presence is a provocation.\"\r\nAsked … [+1623 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Borsen fire: Denmark endures its own Notre Dame devastation",
+      "description": "Danes recount watching in horror as the historic Borsen went up in flames.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68848772",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D638/production/_133204845_gettyimages-2147857967.jpg",
+      "publishedAt": "2024-04-21T11:52:14.5016425Z",
+      "content": "Media caption, Watch: Fire engulfed the historic dragon spire which then collapsed\r\nAlarm bells first rang out early on Tuesday morning as fire ripped through Copenhagen's historic former stock excha… [+6513 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Victoria Beckham: Spice Girls reunite... at Posh's 50th birthday",
+      "description": "All five members of the group perform Stop at Victoria Beckham's 50th birthday party in London.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68868289",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E5A/production/_107101296_gettyimages-144618345.jpg",
+      "publishedAt": "2024-04-21T11:07:20.6582324Z",
+      "content": "All five members of the Spice Girls have reunited, just perhaps not as you'd expect.\r\nOn Saturday night, Victoria Beckham, Melanie Brown, Emma Bunton, Geri Horner and Melanie Chisholm, better known a… [+3083 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine aid package could help Kyiv slow Russia’s advance",
+      "description": "The $61bn (£49bn) aid package keeps Ukraine in the fight but it's no silver bullet, BBC's James Waterhouse writes from Kyiv.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68868399",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2102/production/_133205480_gettyimages-1675219538.jpg",
+      "publishedAt": "2024-04-21T10:52:14.9858718Z",
+      "content": "President Volodymyr Zelensky has expressed his gratitude to the US House of Representatives for approving a new $61bn (£49bn) package of military assistance for Ukraine after months of delays. He sai… [+4161 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US migrant crisis shifts from Texas to California border",
+      "description": "A record surge of illegal border crossings in recent years has made immigration a top voter concern.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68861660",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C78/production/_133200479_gettyimages-1858796801.jpg",
+      "publishedAt": "2024-04-21T09:37:19.5639563Z",
+      "content": "On a blustery morning last month, volunteer Adriana Jasso raised the flaps to a tent propped up against the massive steel bars of the fence that straddles this stretch of the US-Mexico border. On her… [+9274 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Sydney stabbing: Baby hurt in shopping mall attack out of hospital",
+      "description": "The nine-month-old daughter of Ashlee Good, who died protecting her, will continue to receive care.",
+      "url": "https://www.bbc.co.uk/news/world-australia-68867841",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/140FE/production/_133147128_bondiashleegood.jpg",
+      "publishedAt": "2024-04-21T09:37:18.7360367Z",
+      "content": "A baby girl injured in the stabbing attack in a Sydney mall has been has been released from hospital.\r\nThe nine-month-old daughter of Ashlee Good, who died protecting her, would continue to receive c… [+3240 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israel Iran attack: Damage seen at air base in Isfahan",
+      "description": "Satellite imagery analysis by BBC Verify reveals damage from Friday's Israeli strike on Iran",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68866548",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03A2/production/_133203900_top_img.jpg",
+      "publishedAt": "2024-04-21T03:52:15.2042267Z",
+      "content": "Satellite imagery released over the past 24 hours has revealed evidence of probable damage at an Iranian air base following an Israeli strike in the early hours of Friday morning.\r\nBBC Verify has ana… [+2597 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "What the world's media makes of Trump going on trial",
+      "description": "Pictures of Donald Trump in a New York courtroom made headlines globally. Here's a flavour of what was said.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68848276",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F793/production/_133197336_trump4_976getty.jpg",
+      "publishedAt": "2024-04-21T01:37:13.3842369Z",
+      "content": "Pictures of Donald Trump sat in a New York courtroom have accompanied countless front-page stories about the first-ever criminal trial of a serving or former US president. \r\nThat coverage has not bee… [+6314 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Jordan van den Berg: The 'Robin Hood' TikToker taking on Australian landlords",
+      "description": "Jordan van den Berg's vigilante-style approach has won him fans and critics amid a housing crisis.",
+      "url": "https://www.bbc.co.uk/news/world-australia-68758681",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/246A/production/_133122390_jordan.jpg",
+      "publishedAt": "2024-04-21T01:22:13.7368043Z",
+      "content": "Three years ago, lawyer Jordan van den Berg was an obscure TikTok creator who made videos that mocked real estate agents.\r\nBut today the 28-year-old is one of the most high-profile activists in Austr… [+8632 chars]"
+    }
+  ]
+}
